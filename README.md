@@ -1,3 +1,3 @@
-# CRoyale-game-service
+# CRoyale-frontend
 
 Test 1..2..3
